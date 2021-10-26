@@ -1,0 +1,116 @@
+{
+    "en": {
+        "label": "English",
+        "message": {
+            "hello": "hello?",
+            "add" : "add",
+            "del" : "delete",
+            "emptyMemo" : "There are no registered notes.",
+            "emptySelectMemo" : "There are no notes selected.",
+            "registConfirm" : "The {0} registration was successful.",
+            "editConfirm" : "The {0} edit was successful.",
+            "deleteConfirm" : "successfully deleted the {0}.",
+            "confirmParam": "please check {0}",
+            "editMemo" : "memo registration",
+            "editTag" : "tag edit",
+            "registTag" : "tag registration",
+            "cancel" : "cancel",
+            "confirm" : "confirm",
+            "reload" : "reload",
+            "setting" : "setting",
+            "color" : "color",
+            "tag" : "tag",
+            "memo" : "memo",
+            "duplicate" : "duplicate"
+        },
+        "menu": {
+            "index" : "main",
+            "memo" : "memo",
+            "schedule" : "schedule"
+        },
+        "routerValue": {
+            "memo" : {
+                "text" : "memo",
+                "date" : "date",
+                "tag" : "tag",
+                "emptyDate" : "no schedule"
+            }
+        }
+    },
+    "ko": {
+        "label": "Korean",
+        "message": {
+            "hello": "안녕?",
+            "add" : "추가",
+            "del" : "삭제",
+            "emptyMemo" : "등록된 메모가 없습니다.",
+            "emptySelectMemo" : "선택된 메모가 없습니다.",
+            "registConfirm" : "{0} 등록에 성공 하였습니다.",
+            "editConfirm" : "{0} 수정에 성공 하였습니다.",
+            "deleteConfirm" : "{0} 삭제에 성공 하였습니다.",
+            "confirmParam": "{0} 확인해 주세요.",
+            "editMemo" : "메모등록",
+            "editTag" : "태그수정",
+            "registTag" : "태그등록",
+            "cancel" : "취소",
+            "confirm" : "확인",
+            "reload" : "갱신",
+            "setting" : "설정",
+            "color" : "색상",
+            "tag" : "태그",
+            "memo" : "메모",
+            "duplicate" : "중복"
+        },
+        "menu": {
+            "index" : "메인",
+            "memo" : "메모",
+            "schedule" : "스케쥴"
+        },
+        "routerValue": {
+            "memo" : {
+                "text" : "메모",
+                "date" : "일정",
+                "tag" : "태그",
+                "emptyDate" : "일정없음"
+            }
+        }
+    },
+    "ja": {
+        "label": "Japanglish",
+        "message": {
+            "hello": "こんにちは?",
+            "add" : "追加",
+            "del" : "delete",
+            "emptyMemo" : "登録されたメモがありません。",
+            "emptySelectMemo" : "選択されたメモがありません。",
+            "registConfirm" : "{0} 登録に成功しました。",
+            "editConfirm" : "{0} 修正に成功しました。",
+            "deleteConfirm" : "{0} 削除に成功しました。",
+            "confirmParam": "{0} 確認してください。",
+            "editMemo" : "メモ登録",
+            "editTag" : "タギングの修正",
+            "registTag" : "タギング登録",
+            "cancel" : "キャンセル",
+            "confirm" : "確認",
+            "reload" : "リロード",
+            "setting" : "設定",
+            "color" : "色",
+            "tag" : "タギング",
+            "memo" : "メモ",
+            "duplicate" : "重複"
+        },
+        "menu": {
+            "index" : "メイン",
+            "memo" : "メモ",
+            "schedule" : "スケジュール"
+        },
+        "routerValue": {
+            "memo" : {
+                "text" : "メモ",
+                "date" : "一定",
+                "tag" : "タギング",
+                "emptyDate" : "一定なし"
+            }
+        }
+    }
+}
